@@ -1,0 +1,14 @@
+{
+   "messages": [
+     {
+       "user": "admin",
+       "timestamp": "T 2024:05:16 09:00:00",
+       "content": "Recuerden revisar las <strong>normas</strong> del foro antes de publicar <s>cualquier cosa</s>."
+     },
+     {
+       "user": "usuario1",
+       "timestamp": "T 2024:05:16 09:20:00",
+       "content": "<h2>Ayuda</h2>\n ¿Alguien sabe como configurar un <em>router</em>?"
+     }
+   ]
+}

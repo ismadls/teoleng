@@ -1,0 +1,29 @@
+{
+   "messages": [
+     {
+       "user": "usuario1",
+       "timestamp": "T 2023:03:15 08:00:00",
+       "content": "<h1>Python</h1>\n Hola, estoy aprendiendo expresiones regulares en python y me gustaria que me recomienden como empezar"
+     },
+     {
+       "user": "usuario2",
+       "timestamp": "T 2023:03:15 10:30:00",
+       "content": "Hola @usuario1!\n Para empezar lo mas <strong>importante</strong> es conocer la libreria <em>re</em>, que contiene todas las funciones de expresiones regulares que vas a precisar!"
+     },
+     {
+       "user": "usuario3",
+       "timestamp": "T 2023:03:15 12:45:00",
+       "content": "Totalmente de acuerdo con @usuario2, ademas, considero importante que utilices python3 y no <s>python2</s>"
+     },
+     {
+       "user": "usuario4",
+       "timestamp": "T 2023:03:15 14:30:00",
+       "content": "Interesante conversacion @usuario1 @usuario2 @usuario3.\n Agregaria que el uso de <strong>expresiones regulares</strong> es muy comun hoy en dia y que vas a encontrar muchas guias en distintos foros online."
+     },
+     {
+       "user": "usuario1",
+       "timestamp": "T 2023:03:16 09:15:00",
+       "content": "<h2>Muchas gracias</h2>\n Gracias a todos por sus consejos! Python <s>no</s> es genial"
+     }
+   ]
+}

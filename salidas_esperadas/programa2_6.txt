@@ -1,0 +1,10 @@
+techTalker: 1
+codeNewbie: 2
+pythonista: 1
+dataDiver: 1
+webWanderer: 1
+uiUxUnicorn: 1
+bugHunter: 1
+securitySentry: 1
+devOpsDynamo: 1
+cloudCrafter: 1

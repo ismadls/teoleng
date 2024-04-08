@@ -1,0 +1,19 @@
+{
+   "messages": [
+     {
+       "user": "pythonDev",
+       "timestamp": "T 2024:06:16 10:00:00",
+       "content": "###Novedades\n - ¡Nueva version de Python disponible!"
+     },
+     {
+       "user": "user1",
+       "timestamp": "T 2024:06:16 10:30:00",
+       "content": "**¡Genial!** ¿Incluye mejoras en el rendimiento @pythonDev?"
+     },
+     {
+       "user": "user2",
+       "timestamp": "T 2024:06:16 11:00:00",
+       "content": "Sí, y tambien nuevas funcionalidades de seguridad y correccion de ~~bugs~~ @user1."
+     }
+   ]
+ }
