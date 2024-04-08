@@ -1,0 +1,4 @@
+usuario1: 2
+usuario2: 1
+usuario3: 1
+usuario4: 1

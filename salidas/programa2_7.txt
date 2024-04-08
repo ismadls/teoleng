@@ -1,0 +1,10 @@
+devJourney: 2
+earlyCoder: 1
+nightOwl: 1
+agileAdvocate: 1
+gitGuru: 1
+reactRanger: 1
+vueVoyager: 1
+cloudCommander: 1
+aiArtisan: 1
+blockchainBard: 1
