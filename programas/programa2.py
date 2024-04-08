@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import re
 import sys
-import re
 from collections import Counter
 
 def prog(texto):
