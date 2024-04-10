@@ -1,0 +1,25 @@
+{
+   "messages": [
+     {
+       "user": "newCoder",
+       "timestamp": "T 2024:03:31 12:00:00",
+       "content": "¿Alguien puede recomendar buenos recursos para aprender JavaScript?"
+     },
+     {
+       "user": "jsGuru",
+       "timestamp": "T 2024:03:31 12:30:00",
+       "content": "Hola @newCoder echa un vistazo a la documentacion oficial de <em>JavaScript</em>, es un buen punto de partida."
+     },
+     {
+       "user": "webDev",
+       "timestamp": "T 2024:03:31 13:00:00",
+       "content": "Y no olvides practicar mucho @newCoder."
+     },
+     {
+       "user": "newCoder",
+       "timestamp": "T 2024:03:31 13:30:00",
+       "content": "¡Gracias por las sugerencias @jsGuru @webDev !"
+     }
+   ]
+}
+ 

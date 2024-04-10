@@ -1,0 +1,60 @@
+{
+   "messages": [
+     {
+       "user": "techTalker",
+       "timestamp": "T 2024:03:17 08:00:00",
+       "content": "<h1>Buenos dias</h1>\n ¡Espero que todos tengan un gran dia lleno de codigo y aprendizaje!"
+     },
+     {
+       "user": "codeNewbie",
+       "timestamp": "T 2024:03:17 08:30:00",
+       "content": "Alguien tiene <strong>tips</strong> para mejorar en Python? Soy nuevo en esto."
+     },
+     {
+       "user": "pythonista",
+       "timestamp": "T 2024:03:17 09:00:00",
+       "content": "Practica todos los dias, incluso si es solo por media hora. Y no olvides revisar los foros oficiales @codeNewbie ."
+     },
+     {
+       "user": "dataDiver",
+       "timestamp": "T 2024:03:17 09:30:00",
+       "content": "<h2>Data Science</h2>\n ¿Alguien mas emocionado por la nueva libreria de analisis de datos que se anuncio?"
+     },
+     {
+       "user": "webWanderer",
+       "timestamp": "T 2024:03:17 10:00:00",
+       "content": "¡Si! Parece que va a simplificar mucho el trabajo con grandes datasets."
+     },
+     {
+       "user": "uiUxUnicorn",
+       "timestamp": "T 2024:03:17 10:30:00",
+       "content": "<h3>Legibilidad</h3>\n Recordatorio: La legibilidad es tan importante como el buen código."
+     },
+     {
+       "user": "bugHunter",
+       "timestamp": "T 2024:03:17 11:00:00",
+       "content": "<strong>Debugging tip:</strong> Siempre revisa los logs de errores, a menudo contienen la solucion a tu problema."
+     },
+     {
+       "user": "securitySentry",
+       "timestamp": "T 2024:03:17 11:30:00",
+       "content": "No olviden actualizar sus dependencias, chicos. Un paquete desactualizado puede ser una puerta abierta para ataques."
+     },
+     {
+       "user": "devOpsDynamo",
+       "timestamp": "T 2024:03:17 12:00:00",
+       "content": "<h2>Automatizacion</h2>\n La automatizacion no solo ahorra tiempo, tambien reduce el riesgo de errores humanos."
+     },
+     {
+       "user": "cloudCrafter",
+       "timestamp": "T 2024:03:18 12:30:00",
+       "content": "Explorar la nube es esencial hoy en dia. AWS, Google Cloud y Azure ofrecen capas gratuitas para que experimentes."
+     },
+     {
+       "user": "codeNewbie",
+       "timestamp": "T 2024:03:18 13:00:00",
+       "content": "Gracias @pythonista @dataDiver @webWanderer @uiUxUnicorn @bugHunter @securitySentry @devOpsDynamo @cloudCrafter por los consejos. ¡Estoy emocionado por aprender mas!"
+     }
+   ]
+ }
+ 

@@ -1,0 +1,59 @@
+{
+  "messages": [
+    {
+      "user": "devJourney",
+      "timestamp": "T 2024:03:16 08:15:00",
+      "content": "<h2>Dia Productivo</h2>\n Empezando el dia con un buen cafe y revision de código. ¿Alguien mas madrugador por aqui?"
+    },
+    {
+      "user": "earlyCoder",
+      "timestamp": "T 2024:03:16 08:45:00",
+      "content": "<strong>Totalmente de acuerdo @devJourney </strong>, no hay nada como el silencio de la mañana para concentrarse."
+    },
+    {
+      "user": "nightOwl",
+      "timestamp": "T 2024:03:17 09:10:00",
+      "content": "Prefiero programar por la noche. El mundo esta tranquilo y puedo pensar mejor."
+    },
+    {
+      "user": "agileAdvocate",
+      "timestamp": "T 2024:03:17 09:35:00",
+      "content": "<h3>Metodologias Agiles</h3>\n Recordemos la importancia de las stand-ups diarias, incluso si son breves."
+    },
+    {
+      "user": "gitGuru",
+      "timestamp": "T 2024:03:18 10:00:00",
+      "content": "Un buen commit debe ser como un buen espresso: pequeño, pero potente."
+    },
+    {
+      "user": "reactRanger",
+      "timestamp": "T 2024:03:18 10:25:00",
+      "content": "Alguien mas emocionado por las nuevas features de React 18? <em>Hooks</em> mejorados!"
+    },
+    {
+      "user": "vueVoyager",
+      "timestamp": "T 2024:03:19 10:50:00",
+      "content": "Vue 3 trae composición API. <strong>¡Es un cambio de juego!</strong>"
+    },
+    {
+      "user": "cloudCommander",
+      "timestamp": "T 2024:03:19 11:15:00",
+      "content": "<h2>Cloud Computing</h2>\n La escalabilidad es clave. No subestimes la carga que tu app puede recibir."
+    },
+    {
+      "user": "aiArtisan",
+      "timestamp": "T 2024:03:20 11:40:00",
+      "content": "<h3>Inteligencia Artificial</h3>\n La IA está transformando el desarrollo de software de maneras que apenas estamos comenzando a entender."
+    },
+    {
+      "user": "blockchainBard",
+      "timestamp": "T 2024:03:20 12:05:00",
+      "content": "Blockchain no es solo para criptomonedas. Sus aplicaciones en seguridad y logística son revolucionarias."
+    },
+    {
+      "user": "devJourney",
+      "timestamp": "T 2024:03:21 12:30:00",
+      "content": "Gracias por compartir vuestras rutinas y pensamientos. ¡Este es un gran lugar para aprender de todos!"
+    }
+  ]
+}
