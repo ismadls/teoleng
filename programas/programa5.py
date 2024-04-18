@@ -2,28 +2,21 @@ import re
 import sys
 
 def prog(texto):
-    er_p5 = r'(#{1,3})(.*?)(\\n)|(\*\*|\*)(.*?)(\*\*|\*)|(~+)(.*?)(~+)'
+    
+    # Conversión encabezados
+    texto = re.sub(r'(###)(.*?)(\\n)', r'<h3>\2</h3>\\n', texto)
+    texto = re.sub(r'(##)(.*?)(\\n)', r'<h2>\2</h2>\\n', texto)
+    texto = re.sub(r'(#)(.*?)(\\n)', r'<h1>\2</h1>\\n', texto)
 
-    def sustituir(match):
-        if match.group(1):
-            if len(match.group(1)) == 1:
-                return "<h1>" + match.group(2) + "</h1>\\n"
-            elif len(match.group(1)) == 2:
-                return "<h2>" + match.group(2) + "</h2>\\n"
-            elif len(match.group(1)) == 3:
-                return "<h3>" + match.group(2) + "</h3>\\n"
-        elif match.group(4) and len(match.group(4)) == 2:
-            return "<strong>" + match.group(5) + "</strong>"
-        elif match.group(4) and len(match.group(4)) == 1:
-            return "<em>" + match.group(5) + "</em>"
-        elif match.group(7):
-            return "<s>" + match.group(8) + "</s>"
-        else:
-            return match.group(0)
+    # Conversión curisva y negrita
+    texto = re.sub(r'(\*\*\*|___)(.*?)(\*\*\*|___)', r'<strong><em>\2</em></strong>', texto)
+    texto = re.sub(r'(\*\*|__)(.*?)(\*\*|__)', r'<strong>\2</strong>', texto)
+    texto = re.sub(r'(\*|_)(.*?)(\*|_)', r'<em>\2</em>', texto)
 
-    resultado = re.sub(er_p5, sustituir, texto)
+    # Conversión tachado
+    texto = re.sub(r'(~+)(.*?)(~+)', r'<s>\2</s>', texto)
 
-    return resultado
+    return texto
 
 
 if __name__ == '__main__':
