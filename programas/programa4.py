@@ -7,7 +7,7 @@ def prog(texto):
 
     unique_matches = list(dict.fromkeys(match))
 
-    ret = "\n".join(f"{usuario}" for usuario in unique_matches)
+    ret = "\n".join(f"{header}" for header in unique_matches)
     return ret
 
 if __name__ == '__main__':
